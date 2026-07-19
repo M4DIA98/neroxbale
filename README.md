@@ -45,7 +45,7 @@ bot.run()
 #### ارسال پیام با کیبورد
 
 ```python
-from lyrex import Keyboard, KeyboardButton
+from neroxbale import Keyboard, KeyboardButton
 
 keyboard = Keyboard()
 
