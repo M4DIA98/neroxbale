@@ -105,7 +105,7 @@ async def handle_vote(call):
 4. Push کنید و PR بفرستید
 ---
 
-**ساخته شده با ❤️ توسط Nerox**
+**ساخته شده با ❤️ توسط تیم نرو ایکس**
 
 برای پیشنهادات و پشتیبانی: [GitHub Issues](https://github.com/M4DIA98/neroxbale/issues)
 ```
