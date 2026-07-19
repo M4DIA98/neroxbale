@@ -7,7 +7,7 @@
 
 ## ویژگی‌ها
 
-- !🌟 پشتیبانی کامل از API بله
+- 🌟 پشتیبانی کامل از API بله
 - ⚡ Asynchronous و Synchronous پشتیبانی
 - 📦 مدیریت آسان پیام‌ها، کیبوردها و Inlineها
 - 🗃️ پشتیبانی از Middleware و Handlers
